@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# PyInstaller output
+/dist/
+/build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Downloads folder (user data)
+Downloads/
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# IDE
+.vscode/
+.idea/
+*.swp
